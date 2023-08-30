@@ -1,8 +1,8 @@
 Olá! Eu sou Bruno Soares e sou futuro desenvolvedor  Full Stack apaixonado por tecnologia. Estou sempre buscando aprender coisas novas e enfrentar desafios interessantes.
 
 <div>
-    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=BrunoSoares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSoares&layout=compact&langs_cout=16&theme=dark"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=BrunoSoares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSoares&layout=compact&langs_cout=16&theme=dark"/>
 </div>
 
  <div style="display: inline_block"><br>

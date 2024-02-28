@@ -18,3 +18,5 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
   
   
 </div>
+
+![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=brunosoaresdeaquino&show_icons=true&theme=radical)

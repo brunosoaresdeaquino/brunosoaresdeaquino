@@ -1,5 +1,4 @@
-Olá! Eu sou Bruno Soares, estudante de Análise e Desenvolvimento de Sistemas e futuro desenvolvedor  Full Stack apaixonado por tecnologia. Estou sempre buscando aprender coisas novas e enfrentar desafios interessantes.
-
+Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
  <div style="display: inline_block"><br>
   <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">

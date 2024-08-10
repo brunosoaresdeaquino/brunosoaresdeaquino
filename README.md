@@ -20,3 +20,9 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 </div>
 
 ![Bruno.Dev GitHub stats](https://github-readme-stats.vercel.app/api?username=brunosoaresdeaquino&show_icons=true&theme=dracula)
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
